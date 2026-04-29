@@ -43,11 +43,11 @@
     "directory": "Dekker Marnix",
     "docx": "Dekker Marnix/Bio and Picture Marnix Dekker.docx",
     "photo": "Dekker Marnix/Dekker Marnix photo.jpg",
-    "status": "partial",
-    "notes": "missing fields: name, job_title, short_bio",
-    "name": "",
-    "job_title": "",
-    "short_bio": ""
+    "status": "ok",
+    "notes": "",
+    "name": "Dr. Marnix Dekker",
+    "job_title": "Deputy Head of Unit for Resilience of Critical Sectors and Head of Sector NIS, ENISA, the EU Agency for Cybersecurity",
+    "short_bio": "Marnix Dekker leads a team of experts supporting the EU Member States with increasing the cybersecurity and resilience of the EU’s critical sectors. This is done by supporting the EU’s national authorities and cybersecurity agencies with the implementation of EU policies, such as the NIS2 and DORA, by supporting the NIS Cooperation group, the Union Risk Assessments, such as the EU 5G toolbox and the Nevers risk assessment. The focus is on building a horizontal NIS2 framework, as well as providing dedicated support to the most critical sectors, Telecoms, Digital Infrastructure, Energy, Finance, Transport and Health. In the past he was the deputy CISO of the European Commission, and before joining the EU institutions he worked as an IT architect for the Dutch national digital identity systems. Marnix has a Ph.D. degree in Computer security and a Master degree in Quantum Physics."
   },
   {
     "directory": "Dobbelaere Karl",
@@ -63,11 +63,11 @@
     "directory": "Holst Linda",
     "docx": "Holst Linda/BIO Linda Holst.docx",
     "photo": "Holst Linda/Linda Holst.jpg",
-    "status": "partial",
-    "notes": "missing fields: name, job_title, short_bio",
-    "name": "",
-    "job_title": "",
-    "short_bio": ""
+    "status": "ok",
+    "notes": "",
+    "name": "Holst Linda",
+    "job_title": "Senior Cybersecurity Advisor",
+    "short_bio": "Linda Holst is a seasoned professional in the field of cybersecurity working for the Ministry of Infrastructure and Water Management at the Human Environment and Transport Inspectorate in the Supervision and Investigation Service department. Build on the foundation of her career at the Dutch military and at the Dutch police, she has more than 15 years professional experience in the area of digital protection of multiple critical infrastructure sectors, covering various strategic advisor, consulting and cyber inspection roles. Linda successfully graduated from 2 leading Universities and followed an International Executive MBA program in South-Africa and the United States of America. Next to her work she is an active reserve officer in the Dutch military."
   },
   {
     "directory": "Jumpertz Dirk",
@@ -93,11 +93,11 @@
     "directory": "Ramsanjhal-Lala Danielle",
     "docx": "Ramsanjhal-Lala Danielle/Ramsanjhal-Lala Danielle BIO.docx",
     "photo": "Ramsanjhal-Lala Danielle/Ramsanjhal-Lala Danielle Foto.jpg",
-    "status": "partial",
-    "notes": "missing fields: name, job_title, short_bio",
-    "name": "",
-    "job_title": "",
-    "short_bio": ""
+    "status": "ok",
+    "notes": "",
+    "name": "Ramsanjhal-Lala Danielle",
+    "job_title": "Senior policymaker – Program manager Cyber Resilience",
+    "short_bio": "When you think of collaboration, you think of Daniëlle. With a degree in Cybercrime and Cybersecurity and a background in Criminology, Daniëlle is relatively new to the cybersecurity world. She applies her knowledge of how to collaborate with the outside world on a complex societal issue, daily as a cyber resilience program manager. She coordinates the following sectors: chemistry, nuclear, waste management and satellite navigation within the Ministry of Infrastructure and Water Management. She doesn't do this alone, but together with her colleagues. Her motto is: Alone you can go far, but together you can go further! She'll be happy to tell you more about the cyber resilience program during the NISDUC days."
   },
   {
     "directory": "Rigaux Ludovic",
@@ -133,21 +133,21 @@
     "directory": "Spelt Patrick",
     "docx": "Spelt Patrick/SPELT Patrick BIO.docx",
     "photo": "Spelt Patrick/SPELT Patrick photo.jpeg",
-    "status": "partial",
-    "notes": "missing fields: name, job_title, short_bio",
-    "name": "",
-    "job_title": "",
-    "short_bio": ""
+    "status": "ok",
+    "notes": "",
+    "name": "Spelt Patrick",
+    "job_title": "Head of Cybersecurity Supervision",
+    "short_bio": "Patrick is currently serving as the Head of Cybersecurity Supervision at the Human Environment and Transport Inspectorate of the Ministry of Infrastructure and Water Management in the Netherlands. In this role, he is actively involved in enhancing supervision regarding cybersecurity measures within essential service providers across various vital infrastructure sectors including Maritime, Rail, Aviation, Drinking Water, and the main traffic network of the Netherlands. Prior to his current position, Patrick held significant roles in the private sector, notably as the IT Lead for Identity & Access Management at Rabobank, one the largest Dutch commercial banks. Patrick brings a wealth of experience in Information Security, IT leadership and risk management, making him a valuable asset in ensuring the robustness of cybersecurity measures within critical infrastructure sectors."
   },
   {
     "directory": "Springveld Cyril",
     "docx": "Springveld Cyril/Springveld Cyril BIO.docx",
     "photo": "Springveld Cyril/Springveld Cyril Foto.png",
-    "status": "partial",
-    "notes": "missing fields: name, job_title, short_bio",
-    "name": "",
-    "job_title": "",
-    "short_bio": ""
+    "status": "ok",
+    "notes": "",
+    "name": "Cyril Springveld",
+    "job_title": "Program lead/senior expert cyber security – Ministry of Infrastructure and Water management",
+    "short_bio": "I am a senior expert cyber security/program manager cyber resilience for aviation and maritime affairs with a strong sense for innovation and international cooperation. My current focus (since 2019) is on digital innovation and development of public/private strategies and projects to protect vital infrastructure from malicious influences."
   },
   {
     "directory": "Terminaux Jean-François",
@@ -203,10 +203,10 @@
     "directory": "van de Heisteeg Patrick",
     "docx": "van de Heisteeg Patrick/van de Heisteeg Patrick BIO.docx",
     "photo": "van de Heisteeg Patrick/van de Heisteeg Patrick photo.jpeg",
-    "status": "partial",
-    "notes": "missing fields: name, job_title, short_bio",
-    "name": "",
-    "job_title": "",
-    "short_bio": ""
+    "status": "ok",
+    "notes": "",
+    "name": "Patrick van de Heisteeg",
+    "job_title": "Coordinating Special Advisor for Cybersecurity Supervision at the Human Environment and Transport Inspectorate (ILT)",
+    "short_bio": "Patrick van de Heisteeg is a specialist in permits, supervision, and enforcement of environmental laws and works as a coordinating special advisor for cybersecurity supervision at the Human Environment and Transport Inspectorate (ILT). Previously, he worked as a senior policy advisor for Maritime Safety at the Directorate-General for Maritime Affairs of the Ministry of Infrastructure and Water Management. The ILT is the designated supervisory authority for the NIS2 and CER for the Transport sectors (Seaports, Railways, Road Transport, Aviation, and Public Transport) and the Drinking Water, Chemicals, Waste Management, and Wastewater Management sectors. Patrick is particularly interested in collaboration, mapping various legislation, and efficient supervision that contributes to good governance and the resilience of the Netherlands as a whole."
   }
 ]
