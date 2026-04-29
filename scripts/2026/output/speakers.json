@@ -1,0 +1,212 @@
+[
+  {
+    "directory": "Alves Joao Filipe",
+    "docx": "Alves Joao Filipe/ALVES Joao Filipe 2026 - NISDUC-Bio-Template JFA DEF.docx",
+    "photo": "Alves Joao Filipe/ALVES Joao Filipe Photo - NISDUC.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "João Filipe Alves",
+    "job_title": "Head of Security",
+    "short_bio": "João Filipe Alves is the Head of Security at National Regulatory Authority for Telecommunications (ANACOM) and Vice Chairman of Emergency Communications Planning Committee. Previously he was Head of Regulation, Supervision and Certification Department at the National Cybersecurity Centre (CNCS). During the Portuguese Presidency of the Council of the European Union, he was the Chair of the NIS Cooperation Group and Chair of the CyCLONe Network. He was the national representative in the European Union Cybersecurity Exercises project of the European Union Agency for Cybersecurity (ENISA) since 2010. He also was Software Engineer at Critical Software, Portugal Telecom and Siemens. He has a degree in Computer Engineering from the Faculty of Sciences of the University of Lisbon and a postgraduate degree in IT Security Engineer, also from the Faculty of Sciences of the University from Lisbon."
+  },
+  {
+    "directory": "Ampe Sarah",
+    "docx": "Ampe Sarah/2026 - NISDUC-Bio-Sarah.docx",
+    "photo": "Ampe Sarah/AMPE Sarah.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Sarah Ampe",
+    "job_title": "Manager Digital Risk at EY and Core Member of the Quantum Circle",
+    "short_bio": "Sarah Ampe is a Manager in Digital Risk at EY and a core member of the Quantum Circle. With a background in mathematics, she helps organizations mature their cryptography practices by guiding them through industry best practices, automating their cryptography processes, and preparing for the challenges that quantum technology will bring. Sarah enjoys working with teams to build practical, quantum-secure strategies that protect their digital environments. In 2025, she was recognized as Young Cyber Professional of the Year by the Cyber Security Coalition. On top of that, Sarah is passionate about making the digital world more accessible for her local community."
+  },
+  {
+    "directory": "De Paepe Dirk",
+    "docx": "De Paepe Dirk/De Paepe Dirk 2026 - NISDUC.docx",
+    "photo": "De Paepe Dirk/De Paepe Dirk - photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Dirk De Paepe",
+    "job_title": "Senior Certification Expert",
+    "short_bio": "Dirk De Paepe is a Senior Cybersecurity Certification Expert at the Centre for Cybersecurity Belgium (CCB), supporting Belgian and European certification initiatives within the National Cybersecurity Certification Authority (NCCA).\nAs ISO/IEC 27001 Lead Implementer, Lead Auditor and trainer, and architect of the CyberFundamentals framework, he helps organisations strengthen their cyber maturity and close protection gaps.\nDirk provides expert input to European policy discussions and contributed to ENISA’s NIS2 Technical Implementation Guidance, helping translate EU requirements into practical implementation.\nBefore joining the CCB, he worked in the aerospace and defence sector, including as a Technical Officer in the Belgian Air Force.\nHis combined technical background, governance expertise and certification–accreditation experience make him a strong advocate for pragmatic, risk‑driven NIS2 implementation across sectors."
+  },
+  {
+    "directory": "De Wispelaere Bram",
+    "docx": "De Wispelaere Bram/De Wispelaere Bram 2026 - NISDUC-Bio+photo-Template_.docx",
+    "photo": "De Wispelaere Bram/De Wispelaere Bram Photo.docx.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Bram De Wispelaere",
+    "job_title": "General Manager EnergyVille",
+    "short_bio": "Bram De Wispelaere is General Manager of EnergyVille and has over 22 years of experience in the Belgian and European energy sector. His career spans engineering, energy companies, regulation, infrastructure management and government. He previously held senior roles at EDF Luminus, the Flemish energy regulator (VREG), Brussels Airport Company, and served as Deputy Chief of Staff to the Belgian Federal Minister of Energy, where he was responsible for market design, security of supply and crisis management during the energy crisis. He also serves as Chair of the Board of Directors of NIRAS. This cumulative experience led to his current role at the head of EnergyVille."
+  },
+  {
+    "directory": "Dekker Marnix",
+    "docx": "Dekker Marnix/Bio and Picture Marnix Dekker.docx",
+    "photo": "Dekker Marnix/Dekker Marnix photo.jpg",
+    "status": "partial",
+    "notes": "missing fields: name, job_title, short_bio",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  },
+  {
+    "directory": "Dobbelaere Karl",
+    "docx": "Dobbelaere Karl/Dobbelaere Karl 2026 - NISDUC-Bio-Karl.docx",
+    "photo": "Dobbelaere Karl/Dobbelaere Karl-photo ROS_7405 (3).jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Karl Dobbelaere",
+    "job_title": "Advisor Organisations of Vital Interest",
+    "short_bio": "Karl Dobbelaere is an advisor at the Belgian Centre for Cybersecurity (CCB), where he focuses on the cybersecurity of Organisations of Vital Interest, including entities covered by the NIS2 Directive. He coordinates the CCB’s CySSAP initiative, a forum bringing together sectoral authorities to support the implementation of NIS2.\nAt the European level, he contributes to the work of the NIS Cooperation Group, participating in the workstream on Cybersecurity Risk and Vulnerability Management as well as the workstream on Incident Reporting.\nFurthermore, he has a particular interest in the evolving phishing landscape, from both a legal and policy perspective."
+  },
+  {
+    "directory": "Holst Linda",
+    "docx": "Holst Linda/BIO Linda Holst.docx",
+    "photo": "Holst Linda/Linda Holst.jpg",
+    "status": "partial",
+    "notes": "missing fields: name, job_title, short_bio",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  },
+  {
+    "directory": "Jumpertz Dirk",
+    "docx": "Jumpertz Dirk/JUMPERTZ Dirk 2026 - NISDUC-Bio-Template-DJU.docx",
+    "photo": "Jumpertz Dirk/JUMPERTZ Dirk 20260402-DJU.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Dirk Jumpertz",
+    "job_title": "Manager European TLD ISAC",
+    "short_bio": "Dirk Jumpertz is Manager of the European TLD ISAC, where he leads efforts to strengthen collaboration and trusted information sharing among top-level domain registries across Europe. Operating at the intersection of threat intelligence, operational security and resilience, and sector-wide coordination, he supports the DNS community in improving collective resilience against evolving cyber threats.\nWith a background in cybersecurity leadership and critical infrastructure protection, Dirk has extensive experience in risk management, IT & security operations, and building cooperative defence frameworks. He has been closely involved in the development of the TLD ISAC over the years, previously serving in key leadership roles and helping shape it into a trusted platform for information exchange within the European DNS ecosystem."
+  },
+  {
+    "directory": "Rambi Johan",
+    "docx": "Rambi Johan/Rambi J 2026 - NISDUC-Bio-Template vJR.docx",
+    "photo": "Rambi Johan/Rambi Johan photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Johan Rambi",
+    "job_title": "Cyber Security consultant",
+    "short_bio": "Johan Rambi is independent strategic cyber security consultant for board/senior management and specialized in development of IT/OT security posture with people, process and technology improvements. Furthermore Johan is an expert in setting up (international) public-private partnerships and trusted communities and was active in EU, Japan, US, Black sea and Balkan area. As co-founder, Johan launched the European Energy-ISAC (EE-ISAC) in 2015 to promote international collaboration and information sharing in the EU Energy sector. A special highlight for Johan and recognition of the EE-ISAC was the participation at the G7 Cyber Security Summit in Tokyo in 2017 and the signing of the MoU collaboration document in 2018 between the US E-ISAC, Japan E-ISAC and EE-ISAC to foster global information sharing in the Energy Sector. Johan is also founder of the Dutch Agrifood-ISAC, the Dutch EV Charging ISAC (EVC-ISAC) and Offshore Wind Taskforce as part of the EE-ISAC."
+  },
+  {
+    "directory": "Ramsanjhal-Lala Danielle",
+    "docx": "Ramsanjhal-Lala Danielle/Ramsanjhal-Lala Danielle BIO.docx",
+    "photo": "Ramsanjhal-Lala Danielle/Ramsanjhal-Lala Danielle Foto.jpg",
+    "status": "partial",
+    "notes": "missing fields: name, job_title, short_bio",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  },
+  {
+    "directory": "Rigaux Ludovic",
+    "docx": "Rigaux Ludovic/RIGAUX Ludovic 2026 - NISDUC-Bio-Template.docx",
+    "photo": "Rigaux Ludovic/RIGAUX Ludovic Photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Ludovic Rigaux",
+    "job_title": "Energy Security Officer",
+    "short_bio": "Ludovic Rigaux is Energy Security Officer within the Energy Directorate-General of the Federal Public Service Economy. He has a background in bioengineering and aeronautics, as well as professional experience in academic research and the transportation industry.\nHis current responsibilities focus on the resilience of critical entities and infrastructures in the Energy Sector, including on-site inspections, cyber-physical resilience assessments, stress tests, risk analysis, and more."
+  },
+  {
+    "directory": "Samyn Tom",
+    "docx": "Samyn Tom/SAMYN Tom 2026 - NISDUC-Bio.docx",
+    "photo": "Samyn Tom/SAMYN Tom photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Tom Samyn",
+    "job_title": "Community Manager at Beltug",
+    "short_bio": "Tom Samyn is Community Manager at Beltug, the Belgian association of CIOs and digital decision makers.\nHe brings over 30 years of IT experience across highly regulated sectors including banking, HR services, and healthcare, where he held senior roles in Enterprise Architecture and IT management.\nThroughout his career, Tom has been closely involved in cybersecurity, large-scale IT transformations, compliance initiatives, and operational resilience in complex environments.\nAt Beltug, he drives community initiatives that enable members to exchange expertise on digital strategy, cybersecurity, innovation, and EU digital regulation, with a strong focus on practical implementation and peer learning.\nHe regularly hosts events on key digital themes, moderates expert panels and task forces, and acts as a facilitator between policy, technical experts, and practitioners, translating regulatory and technical complexity into actionable insights for CIOs, CISOs, and digital leaders."
+  },
+  {
+    "directory": "Sigurdardottir Tinna",
+    "docx": "Sigurdardottir Tinna/SIGURDARDOTTIR Tinna  2026 - NISDUC-Bio-Template.docx",
+    "photo": "Sigurdardottir Tinna/Sigurdardottir Tinna photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Tinna Sigurðardóttir",
+    "job_title": "Sigurðardóttir",
+    "short_bio": "Tinna is a cyber security expert with over 8 years of experience in the field. She has worked in threat research and malware detection, as well as countering hybrid threats. Currently, she is Iceland's secondment to the Hybrid CoE, where she works as a senior analyst."
+  },
+  {
+    "directory": "Spelt Patrick",
+    "docx": "Spelt Patrick/SPELT Patrick BIO.docx",
+    "photo": "Spelt Patrick/SPELT Patrick photo.jpeg",
+    "status": "partial",
+    "notes": "missing fields: name, job_title, short_bio",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  },
+  {
+    "directory": "Springveld Cyril",
+    "docx": "Springveld Cyril/Springveld Cyril BIO.docx",
+    "photo": "Springveld Cyril/Springveld Cyril Foto.png",
+    "status": "partial",
+    "notes": "missing fields: name, job_title, short_bio",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  },
+  {
+    "directory": "Terminaux Jean-François",
+    "docx": "Terminaux Jean-François/TERMINAUX JF- 2026 - NISDUC-Bio.docx",
+    "photo": "Terminaux Jean-François/TERMINAUX JF photo.jpg",
+    "status": "ok",
+    "notes": "multiple photo files found; used TERMINAUX JF photo.jpg",
+    "name": "Jean-François Terminaux",
+    "job_title": "Partner Manager – Disconnected Sovereign Cloud",
+    "short_bio": "With over 30 years of expertise in Luxembourg’s ICT sector, Jean-François Terminaux is a leading authority on telecommunications and sovereign cloud. Currently serving as Partner Manager for Disconnected Sovereign Cloud at Proximus Luxembourg, he specializes in the strategic positioning of complex infrastructure, with a particular focus on technological sovereignty and sovereign cloud solution like Clarence.\nA central figure in the national ecosystem, Jean-François has served as Chairman of Finance & Technology Luxembourg (FTL) since 2017. In this role, he steers the evolution of tech services amid the financial sector's shifting regulatory landscape. He also chairs the \"Data & Sovereignty\" working group at ICT Luxembourg, leveraging his deep insights to drive digital transformation by balancing innovation with rigorous compliance and data governance."
+  },
+  {
+    "directory": "Tuyteleers Kristof",
+    "docx": "Tuyteleers Kristof/Tuyteleers Kristof 2026 - NISDUC-Bio.docx",
+    "photo": "Tuyteleers Kristof/Tuyteleers Kristof photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Kristof Tuyteleers",
+    "job_title": "CISO",
+    "short_bio": "Kristof Tuyteleers is Chief Information Security Officer at DNS Belgium, the Top-Level Domain registry for .be, .brussels, and .vlaanderen. He has been working in the internet industry for nearly three decades.\nAfter 15 years in various engineering roles, he decided to specialise in information security management. He combines deep technical expertise with hands-on experience in crisis management, helping organisations translate frameworks such as NIS2 and ISO standards into practical capabilities that hold up in real-world scenarios.\nKristof has a passion for DNS security and never misses an opportunity to talk and present about it. He is the co-founder of the European TLD ISAC, a sectoral body for sharing cybersecurity threats, best practices, and incidents to enhance collective security. Kristof is also an active member of the Cyber Security Coalition and the BELTUG community in Belgium."
+  },
+  {
+    "directory": "Van den Broeck Yannick",
+    "docx": "Van den Broeck Yannick/VAN DEN BROECK Yannick 2026 - NISDUC-Bio-Template_Voka.docx",
+    "photo": "Van den Broeck Yannick/VAN DEN BROECK Yannick.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Yannick Van den Broeck",
+    "job_title": "Expert Energy & Climate (Voka)",
+    "short_bio": "Yannick Van den Broeck is an Energy & Climate Expert at Voka’s Knowledge and Advocacy Center. Since April 2023, he has been monitoring Flemish and federal energy and climate policy and supporting companies in their energy transition. He also represents Voka in advisory bodies such as the Minaraad, SERV, and the Energy Policy Agreements Committee.\nYannick studied history at the University of Antwerp and subsequently built fourteen years of expertise within government and the energy sector. He served as parliamentary assistant to Matthias Diependaele, worked as a Hydrogen Project Manager at WaterstofNet, and later became Energy and Climate Policy Advisor in the cabinet of former Flemish Minister-President Jan Jambon.\nWithin Voka, Yannick actively contributes to the energy and climate debate by participating in strategic consultation platforms such as Klimaatsprong, Make2030, Elia’s stakeholder sounding board, Fluvius’ stakeholder consultation, and the Board of Directors of Flux50. He is involved in various projects and studies, including EnergieGRIP, and helps to shape a forward-looking and workable energy policy for companies in Flanders."
+  },
+  {
+    "directory": "Vanhuysse Frederik",
+    "docx": "Vanhuysse Frederik/VANHUYSSE Frederik Bio.docx",
+    "photo": "Vanhuysse Frederik/VANHUYSSE Frederik photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Frederik Vanhuysse",
+    "job_title": "Senior policy advisor (Energy crisis management)",
+    "short_bio": "Frederik Vanhuysse is a senior policy advisor on energy crisis management at the Federal Public Service of Economy with a focus on electricity. Previously he worked on the national crisis plan for natural gas within the same organization. Before he was policy advisor hydrogen.\nFrederik holds a master’s degree in sociology."
+  },
+  {
+    "directory": "de Groot André",
+    "docx": "de Groot André/de Groot Andre 2026-03-24 - NISDUC.docx",
+    "photo": "de Groot André/de Groot Andre 2026-03-24 Foto.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "André de Groot",
+    "job_title": "Policy Advisor De Nederlandsche Bank",
+    "short_bio": "As policy advisor at De Nederlandsche Bank (DNB) I am primarily involved in Technology related policy files. Recent files are DORA, FIDA & NIS2. Besides that, I am involved in work on Digital Dependency in the Financial Sector. Last October DNB and AFM published a report on this topic."
+  },
+  {
+    "directory": "van de Heisteeg Patrick",
+    "docx": "van de Heisteeg Patrick/van de Heisteeg Patrick BIO.docx",
+    "photo": "van de Heisteeg Patrick/van de Heisteeg Patrick photo.jpeg",
+    "status": "partial",
+    "notes": "missing fields: name, job_title, short_bio",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  }
+]
