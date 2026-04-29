@@ -36,6 +36,19 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
+
+def load_existing(json_path: Optional[Path]) -> Dict[str, Dict[str, str]]:
+    """Load an existing speakers.json, indexed by `directory`, if present."""
+    if not json_path or not json_path.is_file():
+        return {}
+    try:
+        data = json.loads(json_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        print(f"warning: could not read existing JSON {json_path}: {exc}",
+              file=sys.stderr)
+        return {}
+    return {row["directory"]: row for row in data if isinstance(row, dict) and row.get("directory")}
+
 NS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
 
 PHOTO_EXTENSIONS = {
@@ -210,7 +223,11 @@ def find_one_file(directory: Path, extensions: set[str]) -> Tuple[Optional[Path]
     return (matches[0] if matches else None), matches
 
 
-def extract_directory(directory: Path, root: Path) -> Dict[str, str]:
+def extract_directory(
+    directory: Path,
+    root: Path,
+    existing: Optional[Dict[str, str]] = None,
+) -> Dict[str, str]:
     docx_path, docx_matches = find_one_file(directory, {".docx"})
     photo_path, photo_matches = find_one_file(directory, PHOTO_EXTENSIONS)
 
@@ -233,6 +250,10 @@ def extract_directory(directory: Path, root: Path) -> Dict[str, str]:
     if not docx_path:
         row["status"] = "missing_docx"
         row["notes"] = "no DOCX file found"
+        if existing:
+            for field in OUTPUT_FIELDS:
+                if existing.get(field):
+                    row[field] = existing[field]
         return row
     if not photo_path:
         notes.append("no photo file found")
@@ -243,9 +264,16 @@ def extract_directory(directory: Path, root: Path) -> Dict[str, str]:
         row["status"] = "error"
         notes.append(f"could not read DOCX: {exc}")
 
+    if existing:
+        for field in OUTPUT_FIELDS:
+            existing_value = (existing.get(field) or "").strip()
+            if existing_value:
+                row[field] = existing_value
+
     missing_fields = [field for field in OUTPUT_FIELDS if not row.get(field)]
-    if missing_fields and row["status"] == "ok":
-        row["status"] = "partial"
+    if row["status"] not in ("error",):
+        row["status"] = "partial" if missing_fields else "ok"
+    if missing_fields:
         notes.append("missing fields: " + ", ".join(missing_fields))
 
     row["notes"] = "; ".join(notes)
@@ -275,6 +303,9 @@ def main() -> int:
         print(f"error: root is not a directory: {root}", file=sys.stderr)
         return 2
 
+    json_path = Path(args.json_path).expanduser().resolve() if args.json_path else None
+    existing_by_dir = load_existing(json_path)
+
     rows = []
     for directory in candidate_directories(root, args.recursive):
         # Skip directories that contain neither a DOCX nor a photo.
@@ -282,13 +313,14 @@ def main() -> int:
         has_photo = any(p.is_file() and p.suffix.lower() in PHOTO_EXTENSIONS for p in directory.iterdir())
         if not has_docx and not has_photo:
             continue
-        rows.append(extract_directory(directory, root))
+        rel_dir = str(directory.relative_to(root))
+        rows.append(extract_directory(directory, root, existing_by_dir.get(rel_dir)))
 
     output = json.dumps(rows, ensure_ascii=False, indent=2)
     print(output)
 
-    if args.json_path:
-        Path(args.json_path).write_text(output + "\n", encoding="utf-8")
+    if json_path:
+        json_path.write_text(output + "\n", encoding="utf-8")
     if args.csv_path:
         write_csv(Path(args.csv_path), rows)
 
