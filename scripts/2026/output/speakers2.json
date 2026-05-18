@@ -1,0 +1,82 @@
+[
+  {
+    "directory": "De Crescenzo Stefano",
+    "docx": "",
+    "photo": "De Crescenzo Stefano/De Stefano Crescenzo-photo.png",
+    "status": "missing_docx",
+    "notes": "no DOCX file found",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  },
+  {
+    "directory": "Duval Evangeline",
+    "docx": "Duval Evangeline/DUVAL Evangeline 2026 - NISDUC-Bio-Template.docx",
+    "photo": "",
+    "status": "ok",
+    "notes": "no photo file found",
+    "name": "Evangéline Duval",
+    "job_title": "Information Security Officer",
+    "short_bio": "Evangeline Duval is an Information Security Officer at POST Luxembourg, helping keep the country’s postal and logistics backbone running safely in a digital world, while supporting the Group’s various activities (telecommunications, banking, …).\nShe started as a pentester 10+ years ago and never lost the habit of dissecting systems to see how they really work and how to make them safer (or occasionally break them on purpose).\nShe now focuses her efforts on the human and cultural aspects of security, building systems and culture that are naturally secure by design."
+  },
+  {
+    "directory": "Graux Hans",
+    "docx": "Graux Hans/Graux Hans 2026 - NISDUC-Bio.docx",
+    "photo": "Graux Hans/Graux Hans photo.JPG",
+    "status": "ok",
+    "notes": "",
+    "name": "Hans Graux",
+    "job_title": "ICT Lawyer",
+    "short_bio": "Hans Graux is an ICT lawyer, and a frequent expert advisor to the European Commission and other public bodies. With degrees in both Law and ICT, he is a partner and co-founder of the law firm Timelex (www.timelex.eu), specialised in technology, intellectual property, media and e-business. The Timelex team is internationally recognized, being both a Legal 500 Top Tier firm in Information Technology, and a Chambers Europe Recommended Firm for TMT - Information Technology.\nHans has participated in more than one hundred international ICT policy studies, primarily for the European Commission, various European Agencies, the European Parliament, and multiple governments inside and outside the EU. He has drafted studies and legislation at the EU, national and regional level on electronic identification, trust services, information security, data protection, media, artificial intelligence and e-government, among other topics.\nFurthermore, he is the president of the Flemish Supervisory Committee (Vlaamse Toezichtscommissie), the data protection authority for Flemish public sector bodies."
+  },
+  {
+    "directory": "Honoré Noémie",
+    "docx": "Honoré Noémie/2026 - NISDUC-Bio-Noëmie HONORE.docx",
+    "photo": "Honoré Noémie/HONORE Noëmie - photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Noëmie Honoré",
+    "job_title": "Associate Partner Wavestone & Women4Cyber",
+    "short_bio": "Committed to getting more women into cybersecurity and to bridging policy, regulation, and realworld implementation, Noëmie Honoré works to strengthen Europe’s digital resilience.\nShe is an Associate Partner at Wavestone, where she supports large organisations across Europe on cybersecurity strategy, risk management, and regulatory compliance. With 15 years of experience in cybersecurity, she has led major programmes covering NIS2, ISO 27001, cyber resilience, awareness, and crisis management. Based in Brussels, she regularly works with executive teams and operational leaders to translate regulatory requirements into pragmatic and valuedriven security practices, and frequently trains senior management and boards on cyber risks and crisis decisionmaking.\nNoëmie is also a Board Member of Women4Cyber Belgium and CoChair of the EU Regulations Focus Group of the Belgian Cybersecurity Coalition, in collaboration with the Centre for Cybersecurity Belgium, where she has actively contributed to NIS2 discussions over the past two years. She is a frequent speaker and moderator at European cybersecurity conferences and community events."
+  },
+  {
+    "directory": "Huerta Bravo Javier",
+    "docx": "Huerta Bravo Javier/Huerta Bravo Javier 2026 - NISDUC-Bio.docx",
+    "photo": "Huerta Bravo Javier/Huerta Bravo Javier photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Javier Huerta Bravo",
+    "job_title": "Head of Digital Economy (Cullen International)",
+    "short_bio": "Javier leads the digital economy regulatory intelligence service for Europe, following developments on data, cybersecurity and digital platforms. Before joining Cullen International in 2014, Javier worked at the European Commission on copyright, e-commerce and other topics related to online services. He is a qualified lawyer in Spain."
+  },
+  {
+    "directory": "Nagtegaal Jasper",
+    "docx": "",
+    "photo": "Nagtegaal Jasper/Nagtegaal Jasper-photo.png",
+    "status": "missing_docx",
+    "notes": "no DOCX file found",
+    "name": "",
+    "job_title": "",
+    "short_bio": ""
+  },
+  {
+    "directory": "Roelandt Jeroen",
+    "docx": "Roelandt Jeroen/2026 - NISDUC-Bio-Template (002).docx",
+    "photo": "Roelandt Jeroen/jeroen.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Jeroen Roelandt",
+    "job_title": "CISO",
+    "short_bio": "External CISO @ De Watergroep, digital and physical security"
+  },
+  {
+    "directory": "Todorovic Miljana",
+    "docx": "Todorovic Miljana/TODOROVIC Miljana 2026 - NISDUC-Bio.docx",
+    "photo": "Todorovic Miljana/TODOROVIC Miljana-photo.jpg",
+    "status": "ok",
+    "notes": "",
+    "name": "Miljana Todorovic",
+    "job_title": "Digital Economy Analyst",
+    "short_bio": "Dr. Miljana Todorovic is an analyst at Cullen International, where she focuses on EU data and platform regulation, as well as UK policy and regulatory developments shaping the digital economy. Prior to joining Cullen International, she worked as a university researcher and lecturer. She holds a Ph.D. in Law from the University of Belgrade and an LL.M. in International Business Law from the Université Libre de Bruxelles."
+  }
+]
