@@ -209,7 +209,7 @@
     "job_title": "Coordinating Special Advisor for Cybersecurity Supervision at the Human Environment and Transport Inspectorate (ILT)",
     "short_bio": "Patrick van de Heisteeg is a specialist in permits, supervision, and enforcement of environmental laws and works as a coordinating special advisor for cybersecurity supervision at the Human Environment and Transport Inspectorate (ILT). Previously, he worked as a senior policy advisor for Maritime Safety at the Directorate-General for Maritime Affairs of the Ministry of Infrastructure and Water Management. The ILT is the designated supervisory authority for the NIS2 and CER for the Transport sectors (Seaports, Railways, Road Transport, Aviation, and Public Transport) and the Drinking Water, Chemicals, Waste Management, and Wastewater Management sectors. Patrick is particularly interested in collaboration, mapping various legislation, and efficient supervision that contributes to good governance and the resilience of the Netherlands as a whole."
   },
-    {
+  {
     "directory": "Duval Evangeline",
     "docx": "Duval Evangeline/DUVAL Evangeline 2026 - NISDUC-Bio-Template.docx",
     "photo": "",
@@ -308,5 +308,25 @@
     "name": "Mouloud AIT-KACI",
     "job_title": "",
     "short_bio": "Mouloud AIT-KACI is a cybersecurity expert, cryptology graduate with 13 years of experience starting with pentesting up to complex cloud security evaluations. \nFounder of Hackcyom, a firm specializing in cybersecurity audits and consulting, PASSI-qualified and currently undergoing PACS qualification.\nAs an evaluator and examiner (qualifying and evaluating future ANSSI evaluators) for SecNumCloud and PDIS, he has been supporting major digital players for over ten years on security, compliance, and sovereignty issues.\nThrough Hackcyom, he leads strategic audit, engineering, and cybersecurity governance missions for sensitive organizations.\nRecognized for his technical expertise and strategic vision, he actively contributes to discussions surrounding French digital sovereignty as a model for sovereignty issues in EU member states.\nHe shares his experience on the challenges of secure cloud computing, cyber threats, and digital resilience.\nDuring this conference, he will provide insights into lessons learned from building trusted cloud services, including sovereignty considerations."
+  },
+  {
+    "directory": "",
+    "docx": "",
+    "photo": "",
+    "status": "ok",
+    "notes": "",
+    "name": "Tine Verhanneman",
+    "job_title": "Research Manager Cybersecurity",
+    "short_bio": "Tine Verhanneman is a Research Manager in Cybersecurity at the Department of Computer Science at KU Leuven, where she has been coordinating the Cybersecurity Research Program Flanders since 2023. Prior to this role, she worked as a security professional in the fintech and aviation sectors, building over 15 years of experience in enterprise security architecture focusing in particular on access control, data protection, cryptographic services, and security awareness."
+  },
+  {
+    "directory": "",
+    "docx": "",
+    "photo": "",
+    "status": "ok",
+    "notes": "",
+    "name": "Benjamin W. Broersma",
+    "job_title": "advisor standards @ Netherlands Standardisation Forum",
+    "short_bio": "I'm a hacker, full stack developer, and advisor about internet standards. I like code golf.\n• 🔭 I’m currently working for the Netherlands Standardisation Forum, which facilitates digital cooperation (interoperability) between government organizations and between government, businesses and citizens\n• 🌱 I’m currently learning ZIP, ZLIB (RFC 1950, RFC 1951), ASN.1, ODF and OPC file formats\n• 💬 Ask me anything about EML_NL¹, JQ, bash, xmlstarlet and PL/pgSQL\n• 📫 How to reach me, see my email or 🐦 (@bwbroersma)\n• ⚡ Fun fact: I mail and tweet too many oneliners to colleagues\n\n¹ I used to work for the Electoral Council of the Netherlands (@kiesraad), an electoral management body"
   }
 ]
